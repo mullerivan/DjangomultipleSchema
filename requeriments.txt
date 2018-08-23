@@ -1,0 +1,4 @@
+Django==1.11.15
+psycopg2==2.7.5
+psycopg2-binary==2.7.5
+pytz==2018.5
