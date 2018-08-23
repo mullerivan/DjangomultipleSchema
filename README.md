@@ -1,4 +1,4 @@
-Open Postgres with psql and then:
+Open Postgres with psql and then: __
 
 CREATE DATABASE multiple_schema;
 CREATE USER ivan;
